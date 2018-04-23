@@ -4,7 +4,7 @@ We hope more teams can benefit from playing this game as a conversation starter 
 
 We used this article as our initial guild to create the game: http://www.uxforthemasses.com/buy-the-feature/ You can find instructions on how to play the game and the paper money note we used on this website.
 
-You can find our game content - a list of features, individual feature card, as well as a poster about why and how we created this game in this very repository. (If you are visiting from a mobile device, you can click on the 'Jump to File' link on the top right of this page to see the list of files.)  
+You can find our game content - a list of features, individual feature card, as well as a poster about why and how we created this game in this very repository.
 
 If you are interested in taking a look at the full list of ideas we generated before selecting the top 20 for the current version of our buy a feature game, you can visit this Trello board: https://trello.com/b/MqcOQ5QC/dx-our-ways-of-working
 
